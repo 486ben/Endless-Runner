@@ -1,3 +1,3 @@
 # Endless-Runner
 
-Playlink:
+Playlink: https://486ben.github.io/Endless-Runner/
